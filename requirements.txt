@@ -1,0 +1,6 @@
+bs4
+pandas
+requests 
+beautifulsoup4 
+pandas
+playwright
