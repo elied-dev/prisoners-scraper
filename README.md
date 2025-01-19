@@ -38,6 +38,8 @@
 3. The scraped data will be saved in the specified output format (e.g., CSV). Check the project configuration for more details.
 
 ## Ethical Considerations
+The data is retrieved from the Israeli Ministry of Justice at this address: https://www.gov.il/he/Departments/DynamicCollectors/is-db?skip=0
+
 This project is intended for lawful and ethical use only. Ensure compliance with the following:
 - Verify the legality of web scraping in your jurisdiction.
 - Respect the terms and conditions of the website being scraped.
